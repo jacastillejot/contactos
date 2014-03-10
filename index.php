@@ -3,11 +3,19 @@
 require 'connect.php';
 
 
-var $attrib1;
-var $attrib2;
-var $attrib3;
-var $attrib4;
-var $attrib5;
+$attrib1;
+$attrib2;
+$attrib3;
+$attrib4;
+ $attrib5;
+
+ function insertContactos(){
+
+
+
+
+ 	
+ }
 
 
 ?>
